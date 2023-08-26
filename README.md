@@ -2,7 +2,7 @@
 <h3 align="center">A diligent learner and a new coder looking to learn new stuff!!</h3>
 
 - 📫 How to reach me **charuhasreddybalam@gmail.com**
-
+- 🌐 Portfolio: <a href="https://charuhas10.github.io/Portfolio/" target="_blank">My Portfolio</a>
 
 <p align="left">
 </p>
