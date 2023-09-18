@@ -11,20 +11,6 @@
 
 - 🌐 Portfolio: <a href="https://charuhas10.github.io/Portfolio/" target="_blank">My Portfolio</a>
 
-## 🤝Connect with me:
-
-<div align="center">
-<a href="https://github.com/Charuhas10" target="_blank">
-<img src=https://img.shields.io/badge/-GITHUB-blueviolet?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/CharuhasReddy" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/charuhas-reddy-ab6409228/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>
-
 ## 🧰Languages and Tools:
 
 <div align="center">
@@ -43,4 +29,20 @@
 </div>
 
 ## 🏆 My Github Statistics:
+![](https://github-readme-stats.vercel.app/api?username=Charuhas10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Charuhas10&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Charuhas10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+## 🤝Connect with me:
+
+<div align="center">
+<a href="https://github.com/Charuhas10" target="_blank">
+<img src=https://img.shields.io/badge/-GITHUB-blueviolet?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/CharuhasReddy" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/charuhas-reddy-ab6409228/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>
