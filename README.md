@@ -1,5 +1,6 @@
 <h1 align="center">Hi , I'm Charuhas Reddy Balam</h1>
 <h3 align="center">A passionate developer looking to learn new stuff!!</h3>
+<!-- <h4 align="center">One code to rule them all, one code to find them, one code to bring them all, and in the darkness bind them. In the Land of GitHub where the Repositories lie</h4> -->
 
 - 👀 I’m interested in New Technologies and Web Development.
 
