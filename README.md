@@ -32,6 +32,7 @@
 ## 🏆 My Github Statistics:
 ![](https://github-readme-stats.vercel.app/api?username=Charuhas10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Charuhas10&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Charuhas10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🤝Connect with me:
 
